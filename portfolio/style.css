@@ -1,0 +1,64 @@
+.navbar ul {
+    list-style-type: none;
+    background-color: rgb(5, 5, 84);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+
+}
+
+.navbar a {
+    color: rgba(246, 247, 248, 0.949);
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+
+.navbar li {
+    float: left;
+}
+
+body {
+    background-color: rgb(176, 207, 242);
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: rgb(16, 112, 112);
+}
+
+
+
+.footerContainer {
+    background-color: rgb(24, 118, 142);
+    width: 100%;
+    padding: 20px 20px 20px;
+}
+
+.socialIcons {
+    display: flex;
+    justify-content: center;
+
+}
+
+.socialIcons a {
+    background-color: aliceblue;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.socialIcons a i {
+    font-size: 2em;
+    color: rgb(26, 26, 138);
+    opacity: 0.9;
+
+
+}

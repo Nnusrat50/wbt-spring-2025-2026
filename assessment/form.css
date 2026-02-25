@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+.required {
+    color: red;
+    font-weight: bold;
+}
+
+form {
+    width: 600px;
+    margin: 0 auto;
+}
